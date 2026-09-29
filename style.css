@@ -90,10 +90,21 @@ footer {
     margin-top: 30px;
 }
 
-buttton {
+button {
     background-color: #c77dff;
-    color: #f4f1ea
+    color: #f4f1ea;
     border: none;
     padding: 8px;
     cursor: pointer;
+}
+
+ button:hover{
+background-color: #555555;
+
+ }
+
+.curtir{
+display:block;
+width: fit-content;
+
 }
