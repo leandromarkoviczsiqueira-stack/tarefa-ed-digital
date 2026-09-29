@@ -89,3 +89,11 @@ footer {
     padding: 20px;
     margin-top: 30px;
 }
+
+buttton {
+    background-color: #c77dff;
+    color: #f4f1ea
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+}
