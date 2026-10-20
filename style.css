@@ -1,13 +1,13 @@
 :root{
-    --cor-fundo: #f4f1ea;
+    --cor-fundo: #e6dabe;
     --cor-texto: #222222;
     --cor-principal: #6b2d5c;
     --cor-secundaria: #9b4d83;
     --cor-hover: #c77dff;
     --cor-supeficie: #white;
-    --cor-card: hsl(30, 46%, 84%);
+    --cor-card: hsl(0, 0%, 100%);
     --cor-legenda: #555555;
-    --cor-clara: #white;
+    --cor-clara: white;
     --cor-roddape: #222222;
 }
 body {
