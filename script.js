@@ -10,21 +10,14 @@ curtiu = true;
 } else{
     contador.textContent--;
     curtiu = false;
-
-
-
-
-
-
 }
-
-
-
-
 }
+});
 
-
-
+const bttema = document.querySelector(".btn-tema");
+btntema.addEyentListener("click", mudarTema);
+function mudarTema(){
+    document.body.classList.toggle("tema-escuro");
 }
 
 
