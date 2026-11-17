@@ -133,7 +133,7 @@ margin: 20px auto;
 .galeria {
 display: flex;
 flex-wrap: wrap;
-justify-content: cente;
+justify-content: center;
 }
 
 .cards-curiosidades {
